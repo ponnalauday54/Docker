@@ -1,0 +1,13 @@
+# Docker :
+
+# Typical Env : Server - hypervisor - Virtual Machines = Not all disk space is used by the application and someone needs to manage this infrastructure.
+
+# Container can be hosted on 2 Environments :
+1) Server - Hypervisor - Virtual Machine - VM OS - Docker runtime - Container 
+2) Server - OS - Docker Runtime - Container 
+
+# Containers are light weight systems that use the the host OS and run the applications . 
+
+# Container has both application and system dependencies which are packages from a file to an image and then to a container using the Docker runtimet to manage them
+
+# 
