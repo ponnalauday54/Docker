@@ -1,3 +1,9 @@
 # Install docker on Ubantu Server 
 => sudo apt install docker.io -y
 
+# how to check if Docker is active 
+=> sudo systemctl status docker 
+
+# how to add the user to the docker group
+=> sudo usermod -aG docker uday # this will allow me to run the docker images
+
