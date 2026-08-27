@@ -1,4 +1,4 @@
-# Docker :
+# Docker :Docker is a platform that implements the containerisation .
 
 # Typical Env : Server - hypervisor - Virtual Machines = Not all disk space is used by the application and someone needs to manage this infrastructure.
 
