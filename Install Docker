@@ -7,3 +7,9 @@
 # how to add the user to the docker group
 => sudo usermod -aG docker uday # this will allow me to run the docker images
 
+# What can Docker Client do 
+-> Pull -> Run -> Build
+
+# how to pull an image to docker
+-> docker run hello-world
+
